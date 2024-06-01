@@ -1,5 +1,9 @@
 # Linux-homework
 
+Students concerned:
+Badr ABRAGH: 117588
+Othmane LEMJID: 117605
+
 1. Data Storage:
 
 - All tasks are stored in a text file named 'tasks.txt'.
