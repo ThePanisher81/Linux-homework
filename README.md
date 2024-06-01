@@ -1,8 +1,8 @@
 # Linux-homework
 
 Students concerned:
-Badr ABRAGH: 117588
-Othmane LEMJID: 117605
+- Badr ABRAGH: 117588
+- Othmane LEMJID: 117605
 
 1. Data Storage:
 
